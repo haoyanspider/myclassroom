@@ -1,0 +1,49 @@
+ul{
+    list-style-type:none;
+    padding-left:0;
+    overflow:hidden;
+}
+
+.question-info{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.form-container{
+    text-align:right;
+}
+
+ul .answer{
+    overflow:hidden;
+    margin-bottom:10px;
+    border-bottom:1px solid #eee;
+}
+
+.logo-group{
+    float:left;
+    width:30px;
+    height:100%;
+}
+
+.logo{
+    width:30px;
+    height:100%
+}
+
+.answer-right{
+    width:660px;
+    float:right;
+}
+
+.user-info{
+    overflow:hidden;
+    font-size:16px;
+    color:#9b9b9b;
+}
+
+.create-time{
+    float:right;
+}
+
+
+

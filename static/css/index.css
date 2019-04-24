@@ -1,0 +1,42 @@
+ul{
+    list-style-type:none;
+    padding-left:0;
+}
+
+ul li{
+    border-bottom:1px solid #eee;
+    margin-top:10px;
+    overflow:hidden;
+}
+
+.logo{
+    width:30px;
+    height:30px;
+}
+
+.logo-group{
+    float:left;
+    width:30px;
+    height:100%;
+    background-color:cyan;
+}
+
+.question-group{
+    float:left;
+    width:665px;
+    margin-left:10px
+}
+
+.question-info{
+    float:right;
+}
+
+.question-title a{
+    text-decoration:none;
+    color:#259;
+    font-wight:900px;
+}
+
+.question-info .question-author{
+   margin-right:20px;
+}
